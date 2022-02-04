@@ -1,0 +1,15 @@
+export const GET_POST = 'apiDemoPage/GET_POST';
+export const LOAD_POST_SUCCESS = 'apiDemoPage/LOAD_POST_SUCCESS';
+export const LOAD_POST_ERROR = 'apiDemoPage/LOAD_POST_ERROR';
+export const GET_POSTS = 'apiDemoPage/GET_POSTS';
+export const LOAD_POSTS_SUCCESS = 'apiDemoPage/LOAD_POSTS_SUCCESS';
+export const LOAD_POSTS_ERROR = 'apiDemoPage/LOAD_POSTS_ERROR';
+export const CREATE_POST = 'apiDemoPage/CREATE_POST';
+export const CREATED_POST = 'apiDemoPage/CREATED_POST';
+export const UPDATE_POST = 'apiDemoPage/UPDATE_POST';
+export const UPDATED_POST = 'apiDemoPage/UPDATED_POST';
+export const DELETE_POST = 'apiDemoPage/DELETE_POST';
+export const DELETED_POST = 'apiDemoPage/DELETED_POST';
+export const CLEAR_MESSAGE = 'apiDemoPage/CLEAR_MESSAGE';
+export const START_LOADING = 'apiDemoPage/START_LOADING';
+export const STOP_LOADING = 'apiDemoPage/STOP_LOADING';
